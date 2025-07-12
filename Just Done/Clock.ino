@@ -4,8 +4,8 @@
 #include <TimeLib.h>
 #include <LiquidCrystal_I2C.h>
 
-const char* ssid = "ARCH-OR10N13";
-const char* pass = "Sar1711533754";
+const char* ssid = "  ";
+const char* pass = "  ";
 
 const char* server = "pool.ntp.org";
 const long  gmtch = 21600;
